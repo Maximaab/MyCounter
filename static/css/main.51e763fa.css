@@ -1,0 +1,6 @@
+/*    !*display: flex;*!*/
+/*    !*flex-direction: column;*!*/
+/*    !*justify-content: center;*!*/
+/*    !*align-items: center;*!*/
+/*    !*gap: 50px;*!*/.body,body{background-color:#2193b7;font-family:Consolas,serif;height:100vh;width:100%}.body{align-items:center;display:flex;justify-content:space-around}.right{flex-direction:column}
+/*# sourceMappingURL=main.51e763fa.css.map*/
